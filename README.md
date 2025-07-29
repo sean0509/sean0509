@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Sean!
 
-<!--
-**sean0509/sean0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a BSc IT graduate (with just 1 KT left to clear 😅), and I'm currently learning Java to become a backend developer.
 
-Here are some ideas to get you started:
+🚀 I recently built my first project: an ATM Console App in Java (hosted on GitHub!).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm passionate about tech, clean UI, and building things from scratch.
+
+📚 Currently learning:
+- Java (Core + OOP)
+- Git & GitHub
+- SQL basics
+
+🛠️ Tools & IDEs:
+- Eclipse
+- GitHub Desktop
+- Git Bash
+- VS Code
+
+📈 Next goal: Land a job as a backend developer by the end of the year!
+
+---
+
+🌐 Check out my project here: [ATM Console App](https://github.com/sean0509/atm-console-app)
