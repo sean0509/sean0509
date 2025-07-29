@@ -21,4 +21,4 @@
 
 ---
 
-🌐 Check out my project here: [ATM Console App](https://github.com/sean0509/atm-console-app)
+🌐 Check out my project here: [ATM Console App](https://github.com/sean0509/Atm-machine)
